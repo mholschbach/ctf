@@ -20,7 +20,7 @@ Anyway, if that step was also successful, then a loop starts: take the output fr
 
 Before I went insane, the thought came to me what would happen if I just upload a different file from another browser tab. I don't need to pass the content validation, but maybe the already running process loop from the first browser window will try compile it. I just need to upload within one of these one second pauses between write and read.
 
-All it took was [getflag.c](getflag.c) to raise the FailureException in the function compile(fn) which also prints the stderr output from the compile command to the first browser tab.
+All it took was [getflag.c](getflag.c) to raise the FailureException in the function compile(fn) which conveniently prints the stderr output from the compile command to the first browser tab.
 
 [^1]: https://en.wikipedia.org/wiki/Digraphs_and_trigraphs
 [^2]: http://www.nyx.net/~gthompso/quine.htm
