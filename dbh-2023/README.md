@@ -1,5 +1,5 @@
 # Writeups for Deutschlands Bester Hacker 2023 (online qualification)
-> Very well organised and a special feature for me was that the CTF lasted longer than the usual 48 hours on a weekend.
+> Very well organised and a special feature for me was that the CTF lasted longer than the usual 48 hours on a weekend. I'm too old for allnighters.
 
 ## Challenges
 
@@ -18,7 +18,7 @@
 * heapit
 
 ### Category crypto
-> A category i usually like and are able to solve, but i was more lucky with the other categories.
+> A category I usually like and are able to solve, but not this time.
 * tastaturlayouts
 * secure-login
 
