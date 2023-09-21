@@ -18,7 +18,7 @@
 * heapit
 
 ### Category crypto
-> A category I usually like and are able to solve, but not this time.
+> A category I usually like and I'm able to solve, but not this time.
 * tastaturlayouts
 * secure-login
 
