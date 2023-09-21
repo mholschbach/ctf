@@ -10,22 +10,30 @@ I started with strings and ghidra to see if there was already something interest
 ```console
 wine iCar.exe
 ```
+
 The output contains a long list of environment variables, some marketing and ended with this line:
+
 ```
 Bitte den Testvirus vor dem Start in das aktuelle Verzeichnis kopieren.
 ```
+
 After downloading eicar.com into the same folder the end of the output changed to:
+
 ```
 CHECK: Testvirus gefunden.
 
 Aus Sicherheitsgruenden wird der Testvirus nur auf Computern der Firma DBHLabs analysiert.
 Bitte richten Sie Ihren Computer entsprechend ein.
 ```
-I was interested if wine itself would allow to change some of the environment variable but didn't make any progress. A wild and lucky guess was to change the hostname before starting wine:
+
+I was interested if wine itself would allow to change some of the environment variable but didn't make any progress. A wild and lucky guess was to change the hostname before starting wine
+
 ```console
 sudo hostname DBHLabs; wine iCar.exe
 ```
-and the output changed to
+
+and the output changed to:
+
 ```
 CHECK: Testvirus gefunden.
 
