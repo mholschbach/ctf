@@ -32,3 +32,5 @@ MOV byte ptr [RSP + local_9b1],0x48
 and when you put all of the hex values together you get the string "VmYq3t6w9z4B6E9H". A simple validation if you found enough ASCII values: How many bytes are necessary for the key and IV if AES128 is used?
 
 For the last step I used CyberChef and put everything together to decrypt the [flag](https://gchq.github.io/CyberChef/#recipe=AES_Decrypt(%7B'option':'Hex','string':'23%2066%2027%202c%200a%2060%2066%2036%2020%2027%2066%200a%203e%2066%202c%2074'%7D,%7B'option':'Latin1','string':'VmYq3t6w9z4B6E9H'%7D,'CBC','Raw','Raw',%7B'option':'Hex','string':''%7D,%7B'option':'Hex','string':''%7D)&input=syLs9GhQBrGC/no/dofVDnQaxuLVq%2BncYz79NaShKnBdw4fJojDB4dZ1F8W8Pf1c).
+
+Oh by the way FeO is the chemical bond of Iron and Oxygen which is also known as Rust.
