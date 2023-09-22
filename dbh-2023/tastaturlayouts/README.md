@@ -5,7 +5,7 @@
 Given is the file [email.txt](email.txt) and the description text.
 
 ## Solution
-You can use a tool like CyberChef or a simple script like [solve.py](solve.py). Guessing the first letters is quite easy, you can use a frequency analysis or assume that "KX>[" will becomme "DBH{" and "hb." will become "ich" and continue from there. At least until the flag itself starts.
+You can use a tool like CyberChef or a simple script like [solve.py](solve.py). Guessing the first letters is quite easy, you can use a frequency analysis or assume that "KX>[" will become "DBH{" and "hb." will become "ich" and continue from there. At least until the flag itself starts.
 
 ## Challenge Assessment
 And there lies my issue with this challenge:
