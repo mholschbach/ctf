@@ -18,7 +18,7 @@ Up to the beginning of the flag all the necessary replacements of lower and uppe
 | n N | e E |
 | l L | ; : |
 
-and exactly that no longer remains valid for the flag part of the challenge:
+and is also necessary to replace l$ with the blinking smiley ;) but no longer remains valid for the flag part of the challenge:
 
 | original key | replacement key |
 | :-: | :-: |
@@ -31,4 +31,3 @@ and there are further replacements which collide, when a challenge is called tas
 | :-: | :-: |
 | 4 **$** | 0 **)** |
 | **6** ^ | **0** ) |
-
