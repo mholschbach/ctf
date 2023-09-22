@@ -9,7 +9,7 @@ You can use a tool like CyberChef or a simple script like [solve.py](solve.py). 
 
 ## Challenge Assessment
 And there lies my issue with this challenge:
-Up to the beginning of the flag all the necessary replacements of lower and upper case letters matched perfectly to a US english keyboard (not the whole layout, just the single keyboard keys) and lower case is replaced with lower case and the corresponding uppper case with upper case:
+Up to the beginning of the flag all the necessary replacements of lower and upper case letters matched perfectly to a US english keyboard (not the whole layout, just the single keyboard keys) and lower case is replaced with lower case and the corresponding upper case with upper case:
 
 | original key | replacement key |
 | :-: | :-: |
@@ -25,7 +25,7 @@ and exactly that no longer remains valid for the flag part of the challenge:
 | 1 | 5 | 
 | ! | 1 |
 
-and there are further replacements which collide when a challenge is called tastaturlayout:
+and there are further replacements which collide, when a challenge is called tastaturlayout:
 
 | original key | replacement key |
 | :-: | :-: |
