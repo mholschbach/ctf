@@ -9,7 +9,7 @@
 * abenteuerinsel-1
 
 ### Category misc
-* kingdomof1337
+* [kingdomof1337](kingdomof1337/)
 * [insane](insane/)
 * abenteuerinsel-2
 * java-judge
