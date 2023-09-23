@@ -4,7 +4,7 @@
 ## Challenges
 
 ### Category rev
-* hashpump
+* [hashpump](hashpump/)
 * [FeO](FeO/)
 * abenteuerinsel-1
 
