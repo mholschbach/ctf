@@ -46,5 +46,5 @@
 * https://github.com/hun7erCybersecurity/CTF-Writeups/tree/main/DBH-qualifiers-2023
 * https://github.com/k4mp3t/ctf-writeups/tree/main/dbhd23
 * https://github.com/Gh05t-1337/CTF-Writeups/tree/main/DBH2023-Qualifiers
-* https://github.com/Sn0wF0x/CTF_Writeups
+* https://github.com/Sn0wF0x/CTF_Writeups/tree/main/DBH_2023
 * https://pastebin.com/Yayt20g5
