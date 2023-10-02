@@ -38,7 +38,9 @@ oops you forgot to burp the baby, the baby begins to burp: Flag file not found. 
 Otherwise, contact admin.
 ```
 
-Finally send it to the server to get the flag:
+Finally send it to the server and find the flag in the output:
 ```console
 nc actually-baby-rev.ctf.maplebacon.org 1337
+...
+oops you forgot to burp the baby, the baby begins to burp: maple{th3_b4by_cry1ng_1s_w0rs3_th4n_th1s_r3v3r51ng}.
 ```
