@@ -6,7 +6,7 @@
 You get the [ciphertext](ciphertext.txt) and a [python script](source.py).
 
 ## Solution
-After taking a look at the [source.py](source.py) the *generate_keystream* function indicated a fancy encryption, so let's take a closer look. I modified the *source.py* (available in [printfrequencies.py](printfrequencies.py) to use a simplified key and print the derived keystream. With a line break after 13 elements you easily identify the pattern and the repition after 13 lines:
+After taking a look at the [source.py](source.py) the *generate_keystream* function indicated a fancy encryption, so let's take a closer look. I modified the *source.py* (available as [printfrequencies.py](printfrequencies.py)) to use a simplified key and print the derived keystream. With a line break after 13 elements you easily identify the pattern and the repition after 13 lines:
 
 ```
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12,
@@ -64,7 +64,7 @@ I used the ouput of the frequency table to identify the likely shift of the alph
 14->                                   a           e           i
 ```
 
-I replaced the *generate_key()* function in the [solve.py](solve.py) script as follows:
+I replaced the *generate_key()* function for the [solve.py](solve.py) script as follows:
 
 ```python
 def generate_key():
