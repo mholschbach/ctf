@@ -8,7 +8,7 @@
 * Knowledge Repository
 
 ### Category crypto
-* [BeepBooP Cryptography](BeepBooP Cryptography/)
+* [BeepBooP Cryptography](BeepBooP%20Cryptography/)
 
 ### Forensics
 * Low Effort Wav
@@ -24,8 +24,8 @@
 * SimonProgrammer 3
 
 ### Web
-* [BeepBoop Blog](BeepBoop Blog/)
-* [Hotdog Stand](Hotdog Stand/)
+* [BeepBoop Blog](BeepBoop%20Blog/)
+* [Hotdog Stand](Hotdog%20Stand/)
 
 ### Pwn
 * Flock of Seagulls
