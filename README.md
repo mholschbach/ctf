@@ -5,4 +5,4 @@ snippets from CTFs
 
 [Maple CTF 2023](maplectf23)
 
-[SunshineCTF 2023](SunshineCTF 2023)
+[SunshineCTF 2023](SunshineCTF%202023)
