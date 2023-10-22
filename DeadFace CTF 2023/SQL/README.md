@@ -198,7 +198,8 @@ flag{412-11-44}
 This challenge required additional information from Ghost Town, which can be found here https://ghosttown.deadface.io/t/we-got-a-potential-buyer/107/7 and below:
 
 ```pre
-"I’ll let him know! I told him to put this SHA1 hash in the notes of the transaction so we have a record of what was sold: 911d1fc5930fa5025dbc2d3953c94de9e4773584"
+"I’ll let him know! I told him to put this SHA1 hash in the notes of the transaction so we have a record
+ of what was sold: 911d1fc5930fa5025dbc2d3953c94de9e4773584"
 "Awesome. How are you coming up with that SHA1? The patient_id?"
 "No I’m actually including almost the full billing and patient data. I’m just concatenating the following: 
     card number
