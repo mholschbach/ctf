@@ -1,10 +1,10 @@
 # Category SQL
 
-Originally I didn't want to start with this category at all, but once I had started the environment, loaded the database and solved the first challenge, I couldn't stop.
+Originally I didn't want to start with this category at all, but once I had started the environment, loaded the database and solved the first challenge, I couldn't stop. The environment with PHPMyAdmin helped me a lot to create the SQL statements.
 
 ## Setup a MariaDB plus phpmyadmin environment
 
-I used [docker-compose](docker-compose.yml) to start an environment with MariaDB and PHPMyAdmin. Use "root:notSecureChangeMe" for login to http://localhost:808, create a database aurora with utf8_general_ci and then import the [aurora database dump](https://tinyurl.com/ytsdav3b) ([local copy](aurora.zip)).
+I used [docker-compose](docker-compose.yml) to start an environment with MariaDB and PHPMyAdmin. Use "root:notSecureChangeMe" for login to http://localhost:8080, create a database aurora with utf8_general_ci and then import the [aurora database dump](https://tinyurl.com/ytsdav3b) ([local copy](aurora.zip)).
 
 ## Aurora Compromise 10
 
@@ -30,7 +30,7 @@ flag{Sandor Beyer}
 
 ### Solution
 Two constraints fk_inventory_drug_id and fk_inventory_facility_id are defined for the table inventory. 
-See the *CREATE TABLE ìnventory` statement or http://localhost:8080/index.php?route=/table/relation&db=aurora&table=inventory
+See the *CREATE TABLE ìnventory`* statement or http://localhost:8080/index.php?route=/table/relation&db=aurora&table=inventory
 
 ```sql
 flag{2}
