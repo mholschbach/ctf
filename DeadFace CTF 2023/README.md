@@ -29,7 +29,18 @@ That was a great CTF I took part in. I was excited about the challenges and the 
 * Clean up on aisle 5 300
 * SHAttered Dreams 400
 
-### Category Cryptography
+### [Category Cryptography](Cryptography)
+* Coin Code 10
+* Letter Soup 10
+* B1tz and B0tZ 25
+* Refill on Soup 75
+* HAM JAM 75
+* Color Me Impressed 75
+* Off Again On Aga1n 100
+* Halloween +1 100
+* Up in the Air 250
+* Reflections 350
+* Slothy 375
 
 ### Category Programming
 
