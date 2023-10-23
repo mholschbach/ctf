@@ -179,6 +179,8 @@ flag{Alisa MacUchadair Dermatologist}
 > Example: flag{123-4-8}
 
 ### Solution
+You can find the Ghost Town conversation here: https://ghosttown.deadface.io/t/get-after-those-northern-lights/103/9
+
 I couldn't find anything on aisle or bin in the database... then a look into the [System Design Specification](https://tinyurl.com/3z7zf9y9) ([local copy](System%20Design%20Specification.pdf)) explained the column locator A11B44 is "aisle 11 bin 44":
 ```sql
 SELECT * FROM `inventory` join facilities on facilities.facility_id=inventory.facility_id
