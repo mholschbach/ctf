@@ -1,6 +1,7 @@
 # Writeups for DeadFace CTF 2023
 
 That was a great CTF I took part in. I was excited about the challenges and the story that the organisers had developed.
+[![](Cyber%20Hacktics%20-%20DEADFACE%20CTF%202023%20Competitor%20-%202023-10-20.png)](https://api.badgr.io/public/assertions/rOzVEwmDQy6WUQA741gH8g)
 
 ## Challenges
 
@@ -13,8 +14,9 @@ That was a great CTF I took part in. I was excited about the challenges and the 
 ### Categroy Pwn
 
 ### Category Steganography
+* [Terms and Conditions May Apply](Steganography/Terms%20and%20Conditions%20May%20Apply) 150
 
-### Category [SQL](SQL)
+### [Category SQL](SQL)
 * Aurora Compromise 10
 * Foreign Keys 10
 * Credit Compromise 15
