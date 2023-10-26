@@ -63,6 +63,7 @@ That was a great CTF I took part in. I was excited about the challenges and the 
 
 ## other Writeups
 
+* https://cybersecuritymaverick.medium.com/deaface-2023-ctf-write-ups-d51db56a2108
 * https://xhacka.github.io/tags/deadface2023/
 * https://samanthactf.medium.com/deadface-ctf-2023-94109bdba93d
 * https://github.com/TristanCreek/CTFs/tree/main/DeadFace2023
