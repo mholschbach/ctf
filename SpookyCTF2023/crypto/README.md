@@ -64,7 +64,7 @@ Ayyyyyy yo its me the aliens. Here's your flag: nicc{p4Z87d7L4c}
 >How many monuments did Indiana pass in total?
 
 ### Solution
-A nice ECC challenge with Indy! The solution lies in point multiplication on the given curve. Looking for N with N times 20305 equals 20305. I found this online tool https://asecuritysite.com/ecc/ecc_points_mult but for N>20 it was useless. The [sourcecode](solve_strangemonuments.py) instead was usable:
+A nice ECC challenge with Indy! The solution lies in point multiplication on the given curve. Looking for N with N times 20305 equals 39234. I found this online tool https://asecuritysite.com/ecc/ecc_points_mult but for N>20 it was useless. The [sourcecode](solve_strangemonuments.py) instead was usable:
 
 ```shell
 python3 solve_strangemonuments.py | grep 39234
