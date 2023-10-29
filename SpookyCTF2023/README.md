@@ -16,7 +16,7 @@
 * I don't speak Zorglax
 * the spooky sentence
 
-### [Category Boo!-sint](Boosing)
+### [Category Boo!-sint](Boosint)
 * The Wizard
 * just go live
 * Lunch with the wizard
