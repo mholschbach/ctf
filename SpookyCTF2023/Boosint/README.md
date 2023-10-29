@@ -11,7 +11,7 @@
 >
 >We need the entire street address, city and abbreviated state or district of where it was taken to send our agents to investigate with the local authorities.
 >
-># = Number
+>\# = Number
 >XX = State abbreviation
 >All spaces are underscores
 >
